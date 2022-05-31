@@ -14,3 +14,15 @@ Implementação do encerramento do jogo
 Escrita e leitura de arquivos
 
 Melhorando o código e a apresentação
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/DiegoBolonik/jogos_adivinhacao_python
+# Entre na pasta
+$ cd jogos_adivinhacao_python
+# Para iniciar o projeto
+# Linux
+$ python3 jogos.py
+# Windows
+$ python jogos.py
+```
