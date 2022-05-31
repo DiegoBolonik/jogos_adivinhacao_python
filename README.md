@@ -1,19 +1,16 @@
-Jogo de Adivinhação da Forca desenvolvido através da curso da Alura, Python3 parte2
+## Jogo de Adivinhação da Forca 
 
+✨ desenvolvido através da curso da Alura, Python3 parte2
 
 Nele foram vistos:
 
-Manipulando strings
+✔️ Manipulando strings
+✔️ Conhecimento e trabalho com listas
+✔️ Conhecimento e trabalho com tuplas
+✔️ Implementação do encerramento do jogo
+✔️ Escrita e leitura de arquivos
+✔️ Melhoramentos do código e a apresentação
 
-Conhecimento e trabalho com listas
-
-Conhecimento e trabalho com tuplas
-
-Implementação do encerramento do jogo
-
-Escrita e leitura de arquivos
-
-Melhorando o código e a apresentação
 
 ```bash
 # Clone este repositório
