@@ -1,4 +1,4 @@
-Jogo de Adivinhação da Forca desenvolvido através da curso da Alura, Python2
+Jogo de Adivinhação da Forca desenvolvido através da curso da Alura, Python3 parte2
 
 
 Nele foram vistos:
