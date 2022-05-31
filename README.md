@@ -4,12 +4,17 @@
 
 Nele foram vistos:
 
-✔️ Manipulando strings /n
-✔️ Conhecimento e trabalho com listas /n
-✔️ Conhecimento e trabalho com tuplas/n
-✔️ Implementação do encerramento do jogo/n
-✔️ Escrita e leitura de arquivos/n
-✔️ Melhoramentos do código e a apresentação/n
+✔️ Manipulando strings
+
+✔️ Conhecimento e trabalho com listas
+
+✔️ Conhecimento e trabalho com tuplas
+
+✔️ Implementação do encerramento do jogo
+
+✔️ Escrita e leitura de arquivos
+
+✔️ Melhoramentos do código e a apresentação
 
 
 ```bash
