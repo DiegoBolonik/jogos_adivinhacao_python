@@ -1,4 +1,4 @@
-## Jogo de Adivinhação de número secreto e Forca.
+## Jogo de Adivinhação de Número Secreto e Forca.
 
 ✨ desenvolvido através da curso da Alura, Python3 parte2
 
