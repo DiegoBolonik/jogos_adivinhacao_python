@@ -1,15 +1,15 @@
-## Jogo de Adivinhação da Forca 
+## Jogo de Adivinhação de número secreto e Forca.
 
 ✨ desenvolvido através da curso da Alura, Python3 parte2
 
 Nele foram vistos:
 
-✔️ Manipulando strings
-✔️ Conhecimento e trabalho com listas
-✔️ Conhecimento e trabalho com tuplas
-✔️ Implementação do encerramento do jogo
-✔️ Escrita e leitura de arquivos
-✔️ Melhoramentos do código e a apresentação
+✔️ Manipulando strings /n
+✔️ Conhecimento e trabalho com listas /n
+✔️ Conhecimento e trabalho com tuplas/n
+✔️ Implementação do encerramento do jogo/n
+✔️ Escrita e leitura de arquivos/n
+✔️ Melhoramentos do código e a apresentação/n
 
 
 ```bash
